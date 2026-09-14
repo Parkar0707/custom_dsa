@@ -1,0 +1,625 @@
+================================================================================
+                    WEEK 4 DSA - COMPLETE PROBLEM LIST
+                            All 90 Problems
+================================================================================
+
+DAY 22: TRIE & STRING MATCHING
+================================================================================
+
+Problem 22.1 - Autocomplete System
+  Subtitle: Search suggestions with ranking (trie + DFS)
+  Use Case: Search suggestions
+  Difficulty: Medium
+  Location: week_4/day_22/d22p01/README.md
+
+Problem 22.2 - IP Router Longest Prefix Match
+  Subtitle: Network packet routing (trie)
+  Use Case: Network routing
+  Difficulty: Medium
+  Location: week_4/day_22/d22p02/README.md
+
+Problem 22.3 - Spell Checker
+  Subtitle: Find similar words (trie + edit distance)
+  Use Case: Text correction
+  Difficulty: Medium
+  Location: week_4/day_22/d22p03/README.md
+
+Problem 22.4 - Genome Pattern Matching
+  Subtitle: Multiple pattern search (Aho-Corasick)
+  Use Case: Pattern detection
+  Difficulty: Hard
+  Location: week_4/day_22/d22p04/README.md
+
+Problem 22.5 - URL Shortener
+  Subtitle: Encode/decode URLs (trie for collision detection)
+  Use Case: URL encoding/hashing
+  Difficulty: Medium
+  Location: week_4/day_22/d22p05/README.md
+
+Problem 22.6 - Word Break Problem
+  Subtitle: Validate word segmentation (trie + DP)
+  Use Case: Word decomposition
+  Difficulty: Medium
+  Location: week_4/day_22/d22p06/README.md
+
+Problem 22.7 - Maximum XOR Queries
+  Subtitle: Bit manipulation queries (binary trie)
+  Use Case: XOR optimization
+  Difficulty: Hard
+  Location: week_4/day_22/d22p07/README.md
+
+Problem 22.8 - Replace Words
+  Subtitle: Dictionary-based replacement (trie)
+  Use Case: Text processing
+  Difficulty: Medium
+  Location: week_4/day_22/d22p08/README.md
+
+Problem 22.9 - Stream of Characters
+  Subtitle: Real-time pattern detection (trie)
+  Use Case: Stream processing
+  Difficulty: Medium-Hard
+  Location: week_4/day_22/d22p09/README.md
+
+Problem 22.10 - Concatenated Words
+  Subtitle: Find compound words (trie + recursion)
+  Use Case: Word analysis
+  Difficulty: Hard
+  Location: week_4/day_22/d22p10/README.md
+
+
+DAY 23: SEGMENT TREES & FENWICK TREES
+================================================================================
+
+Problem 23.1 - Range Sum Queries
+  Subtitle: Fast database aggregations (segment tree)
+  Use Case: Data aggregation
+  Difficulty: Medium
+  Location: week_4/day_23/d23p01/README.md
+
+Problem 23.2 - Range Minimum Query
+  Subtitle: Sensor data analysis (sparse table / segment tree)
+  Use Case: Sensor analytics
+  Difficulty: Medium
+  Location: week_4/day_23/d23p02/README.md
+
+Problem 23.3 - Dynamic Range Updates
+  Subtitle: Real-time analytics (lazy propagation)
+  Use Case: Real-time queries
+  Difficulty: Hard
+  Location: week_4/day_23/d23p03/README.md
+
+Problem 23.4 - Count Inversions
+  Subtitle: Data stream analysis (Fenwick tree)
+  Use Case: Sorting analysis
+  Difficulty: Medium-Hard
+  Location: week_4/day_23/d23p04/README.md
+
+Problem 23.5 - 2D Range Sum
+  Subtitle: Image processing queries (2D segment tree)
+  Use Case: Image processing
+  Difficulty: Hard
+  Location: week_4/day_23/d23p05/README.md
+
+Problem 23.6 - Persistent Segment Tree
+  Subtitle: Version control for data structures (persistent)
+  Use Case: Version tracking
+  Difficulty: Hard
+  Location: week_4/day_23/d23p06/README.md
+
+Problem 23.7 - Count of Smaller After Self
+  Subtitle: Trading system (Fenwick tree)
+  Use Case: Trading analysis
+  Difficulty: Medium-Hard
+  Location: week_4/day_23/d23p07/README.md
+
+Problem 23.8 - Range GCD Queries
+  Subtitle: Number theory problems (segment tree)
+  Use Case: Math queries
+  Difficulty: Hard
+  Location: week_4/day_23/d23p08/README.md
+
+Problem 23.9 - Range Frequency Count
+  Subtitle: Network traffic analysis (wavelet tree)
+  Use Case: Traffic analysis
+  Difficulty: Hard
+  Location: week_4/day_23/d23p09/README.md
+
+Problem 23.10 - Skyline Problem
+  Subtitle: Building silhouette (segment tree / sweep line)
+  Use Case: Geometry
+  Difficulty: Hard
+  Location: week_4/day_23/d23p10/README.md
+
+
+DAY 24: SUFFIX ARRAYS & ADVANCED STRINGS
+================================================================================
+
+Problem 24.1 - Longest Repeated Substring
+  Subtitle: Code plagiarism detection (suffix array + LCP)
+  Use Case: Plagiarism detection
+  Difficulty: Hard
+  Location: week_4/day_24/d24p01/README.md
+
+Problem 24.2 - Burrows-Wheeler Transform
+  Subtitle: Text compression (BWT)
+  Use Case: Compression
+  Difficulty: Hard
+  Location: week_4/day_24/d24p02/README.md
+
+Problem 24.3 - Pattern Matching with Wildcards
+  Subtitle: Genomics search (suffix automaton)
+  Use Case: Genomics
+  Difficulty: Hard
+  Location: week_4/day_24/d24p03/README.md
+
+Problem 24.4 - Circular String Matching
+  Subtitle: Periodic signal detection (KMP variant)
+  Use Case: Signal processing
+  Difficulty: Medium-Hard
+  Location: week_4/day_24/d24p04/README.md
+
+Problem 24.5 - Z-Algorithm Application
+  Subtitle: Linear pattern matching (Z-algorithm)
+  Use Case: Pattern search
+  Difficulty: Hard
+  Location: week_4/day_24/d24p05/README.md
+
+Problem 24.6 - Suffix Tree Construction
+  Subtitle: Full-text indexing (Ukkonen's algorithm)
+  Use Case: Text indexing
+  Difficulty: Hard
+  Location: week_4/day_24/d24p06/README.md
+
+Problem 24.7 - Longest Palindromic Substring
+  Subtitle: DNA palindrome detection (Manacher's)
+  Use Case: DNA analysis
+  Difficulty: Medium-Hard
+  Location: week_4/day_24/d24p07/README.md
+
+Problem 24.8 - Distinct Substrings Count
+  Subtitle: Complexity analysis (suffix array)
+  Use Case: String analysis
+  Difficulty: Hard
+  Location: week_4/day_24/d24p08/README.md
+
+Problem 24.9 - String Hashing
+  Subtitle: Fast pattern search (Robin-Karp)
+  Use Case: Pattern matching
+  Difficulty: Medium
+  Location: week_4/day_24/d24p09/README.md
+
+Problem 24.10 - LCS of Multiple Strings
+  Subtitle: Multiple sequence alignment (suffix tree)
+  Use Case: Sequence alignment
+  Difficulty: Hard
+  Location: week_4/day_24/d24p10/README.md
+
+
+DAY 25: COMPUTATIONAL GEOMETRY
+================================================================================
+
+Problem 25.1 - Convex Hull for Collision
+  Subtitle: Physics engine optimization (Graham scan / Jarvis)
+  Use Case: Physics engine
+  Difficulty: Hard
+  Location: week_4/day_25/d25p01/README.md
+
+Problem 25.2 - Line Intersection
+  Subtitle: CAD software geometry (sweep line)
+  Use Case: CAD software
+  Difficulty: Medium-Hard
+  Location: week_4/day_25/d25p02/README.md
+
+Problem 25.3 - Closest Pair of Points
+  Subtitle: Spatial indexing (divide-and-conquer)
+  Use Case: Spatial indexing
+  Difficulty: Hard
+  Location: week_4/day_25/d25p03/README.md
+
+Problem 25.4 - Point in Polygon
+  Subtitle: Geographic information systems (ray casting)
+  Use Case: GIS systems
+  Difficulty: Medium
+  Location: week_4/day_25/d25p04/README.md
+
+Problem 25.5 - Voronoi Diagram
+  Subtitle: Facility location problems (Fortune's algorithm)
+  Use Case: Facility location
+  Difficulty: Hard
+  Location: week_4/day_25/d25p05/README.md
+
+Problem 25.6 - Delaunay Triangulation
+  Subtitle: Mesh generation (Bowyer-Watson)
+  Use Case: Mesh generation
+  Difficulty: Hard
+  Location: week_4/day_25/d25p06/README.md
+
+Problem 25.7 - Rotating Calipers
+  Subtitle: Maximum distance computation (geometry)
+  Use Case: Distance queries
+  Difficulty: Hard
+  Location: week_4/day_25/d25p07/README.md
+
+Problem 25.8 - Rectangle Intersection
+  Subtitle: Window management (sweep line)
+  Use Case: UI layout
+  Difficulty: Medium
+  Location: week_4/day_25/d25p08/README.md
+
+Problem 25.9 - Minimum Enclosing Circle
+  Subtitle: Sensor coverage (Welzl's algorithm)
+  Use Case: Coverage
+  Difficulty: Hard
+  Location: week_4/day_25/d25p09/README.md
+
+Problem 25.10 - 3D Convex Hull
+  Subtitle: 3D modeling (QuickHull)
+  Use Case: 3D graphics
+  Difficulty: Hard
+  Location: week_4/day_25/d25p10/README.md
+
+
+DAY 26: ADVANCED TREE STRUCTURES
+================================================================================
+
+Problem 26.1 - Range Tree
+  Subtitle: Multi-dimensional range queries (fractional cascading)
+  Use Case: Multi-dim queries
+  Difficulty: Hard
+  Location: week_4/day_26/d26p01/README.md
+
+Problem 26.2 - Splay Tree
+  Subtitle: Self-adjusting search tree (splay operations)
+  Use Case: Self-adjusting
+  Difficulty: Hard
+  Location: week_4/day_26/d26p02/README.md
+
+Problem 26.3 - Treap
+  Subtitle: Randomized balanced tree (cartesian tree)
+  Use Case: Randomized
+  Difficulty: Hard
+  Location: week_4/day_26/d26p03/README.md
+
+Problem 26.4 - Link-Cut Tree
+  Subtitle: Dynamic tree queries (Euler tour)
+  Use Case: Dynamic forest
+  Difficulty: Hard
+  Location: week_4/day_26/d26p04/README.md
+
+Problem 26.5 - Heavy-Light Decomposition
+  Subtitle: Path queries on trees (HLD)
+  Use Case: Tree paths
+  Difficulty: Hard
+  Location: week_4/day_26/d26p05/README.md
+
+Problem 26.6 - Centroid Decomposition
+  Subtitle: Tree divide-and-conquer (centroid)
+  Use Case: Tree decomposition
+  Difficulty: Hard
+  Location: week_4/day_26/d26p06/README.md
+
+Problem 26.7 - Suffix Tree Applications
+  Subtitle: String algorithms (advanced)
+  Use Case: String algorithms
+  Difficulty: Hard
+  Location: week_4/day_26/d26p07/README.md
+
+Problem 26.8 - van Emde Boas Tree
+  Subtitle: Integer priority queue (vEB tree)
+  Use Case: Integer operations
+  Difficulty: Hard
+  Location: week_4/day_26/d26p08/README.md
+
+Problem 26.9 - Fusion Tree
+  Subtitle: Fast integer sorting (bit manipulation)
+  Use Case: Integer sorting
+  Difficulty: Hard
+  Location: week_4/day_26/d26p09/README.md
+
+Problem 26.10 - Fractional Cascading
+  Subtitle: Multi-level search (cascading)
+  Use Case: Multi-level search
+  Difficulty: Hard
+  Location: week_4/day_26/d26p10/README.md
+
+
+DAY 27: RANDOMIZED & APPROXIMATION ALGORITHMS
+================================================================================
+
+Problem 27.1 - Reservoir Sampling
+  Subtitle: Random sampling from stream (randomized)
+  Use Case: Stream sampling
+  Difficulty: Medium
+  Location: week_4/day_27/d27p01/README.md
+
+Problem 27.2 - Skip List
+  Subtitle: Probabilistic balanced structure (skip list)
+  Use Case: Probabilistic
+  Difficulty: Medium-Hard
+  Location: week_4/day_27/d27p02/README.md
+
+Problem 27.3 - Bloom Filter
+  Subtitle: Space-efficient set membership (probabilistic)
+  Use Case: Membership test
+  Difficulty: Medium
+  Location: week_4/day_27/d27p03/README.md
+
+Problem 27.4 - Count-Min Sketch
+  Subtitle: Frequency estimation (streaming)
+  Use Case: Frequency count
+  Difficulty: Medium-Hard
+  Location: week_4/day_27/d27p04/README.md
+
+Problem 27.5 - HyperLogLog
+  Subtitle: Cardinality estimation (probabilistic counting)
+  Use Case: Cardinality
+  Difficulty: Hard
+  Location: week_4/day_27/d27p05/README.md
+
+Problem 27.6 - Simulated Annealing
+  Subtitle: Optimization heuristic (metaheuristic)
+  Use Case: Optimization
+  Difficulty: Hard
+  Location: week_4/day_27/d27p06/README.md
+
+Problem 27.7 - Genetic Algorithm
+  Subtitle: Circuit design optimization (evolutionary)
+  Use Case: Evolutionary
+  Difficulty: Hard
+  Location: week_4/day_27/d27p07/README.md
+
+Problem 27.8 - Randomized QuickSelect
+  Subtitle: Expected linear selection (randomized)
+  Use Case: Selection
+  Difficulty: Medium
+  Location: week_4/day_27/d27p08/README.md
+
+Problem 27.9 - Monte Carlo Tree Search
+  Subtitle: Game AI (MCTS)
+  Use Case: Game AI
+  Difficulty: Hard
+  Location: week_4/day_27/d27p09/README.md
+
+Problem 27.10 - Las Vegas Algorithms
+  Subtitle: Randomized pattern matching (always correct)
+  Use Case: Pattern match
+  Difficulty: Medium-Hard
+  Location: week_4/day_27/d27p10/README.md
+
+
+DAY 28: PARALLEL & CONCURRENT ALGORITHMS
+================================================================================
+
+Problem 28.1 - Parallel Merge Sort
+  Subtitle: Multi-threaded sorting (fork-join)
+  Use Case: Parallel sort
+  Difficulty: Hard
+  Location: week_4/day_28/d28p01/README.md
+
+Problem 28.2 - Lock-Free Stack
+  Subtitle: Concurrent data structure (CAS operations)
+  Use Case: Concurrent
+  Difficulty: Hard
+  Location: week_4/day_28/d28p02/README.md
+
+Problem 28.3 - Parallel Prefix Sum
+  Subtitle: GPU-style computation (work-efficient scan)
+  Use Case: Parallel scan
+  Difficulty: Hard
+  Location: week_4/day_28/d28p03/README.md
+
+Problem 28.4 - Concurrent Hash Map
+  Subtitle: Thread-safe dictionary (lock striping)
+  Use Case: Thread-safe
+  Difficulty: Hard
+  Location: week_4/day_28/d28p04/README.md
+
+Problem 28.5 - Producer-Consumer Problem
+  Subtitle: Thread coordination (semaphores)
+  Use Case: Coordination
+  Difficulty: Medium-Hard
+  Location: week_4/day_28/d28p05/README.md
+
+Problem 28.6 - Read-Write Lock
+  Subtitle: Optimize for read-heavy workloads (RW lock)
+  Use Case: Read-heavy
+  Difficulty: Medium-Hard
+  Location: week_4/day_28/d28p06/README.md
+
+Problem 28.7 - Barrier Synchronization
+  Subtitle: Parallel computation phases (barrier)
+  Use Case: Synchronization
+  Difficulty: Medium
+  Location: week_4/day_28/d28p07/README.md
+
+Problem 28.8 - Work Stealing Queue
+  Subtitle: Load balancing (concurrent queue)
+  Use Case: Load balance
+  Difficulty: Hard
+  Location: week_4/day_28/d28p08/README.md
+
+Problem 28.9 - Transactional Memory
+  Subtitle: Atomic operations (STM)
+  Use Case: Atomicity
+  Difficulty: Hard
+  Location: week_4/day_28/d28p09/README.md
+
+Problem 28.10 - Parallel BFS
+  Subtitle: Graph traversal on GPU (level synchronous)
+  Use Case: GPU BFS
+  Difficulty: Hard
+  Location: week_4/day_28/d28p10/README.md
+
+
+DAY 29: MACHINE LEARNING ALGORITHMS
+================================================================================
+
+Problem 29.1 - K-Means Clustering
+  Subtitle: Data segmentation (iterative refinement)
+  Use Case: Clustering
+  Difficulty: Medium
+  Location: week_4/day_29/d29p01/README.md
+
+Problem 29.2 - K-Nearest Neighbors
+  Subtitle: Classification system (k-d tree search)
+  Use Case: Classification
+  Difficulty: Medium
+  Location: week_4/day_29/d29p02/README.md
+
+Problem 29.3 - Decision Tree from Scratch
+  Subtitle: Build classifier (ID3/C4.5)
+  Use Case: Classifier
+  Difficulty: Medium-Hard
+  Location: week_4/day_29/d29p03/README.md
+
+Problem 29.4 - Gradient Descent
+  Subtitle: Neural network training (optimization)
+  Use Case: Training
+  Difficulty: Medium
+  Location: week_4/day_29/d29p04/README.md
+
+Problem 29.5 - Principal Component Analysis
+  Subtitle: Dimensionality reduction (eigenvalue)
+  Use Case: Dimensionality
+  Difficulty: Hard
+  Location: week_4/day_29/d29p05/README.md
+
+Problem 29.6 - Naive Bayes Classifier
+  Subtitle: Text classification (probability)
+  Use Case: Text class
+  Difficulty: Medium
+  Location: week_4/day_29/d29p06/README.md
+
+Problem 29.7 - Linear Regression
+  Subtitle: Prediction system (least squares)
+  Use Case: Regression
+  Difficulty: Medium
+  Location: week_4/day_29/d29p07/README.md
+
+Problem 29.8 - Random Forest
+  Subtitle: Ensemble method (bagging)
+  Use Case: Ensemble
+  Difficulty: Medium-Hard
+  Location: week_4/day_29/d29p08/README.md
+
+Problem 29.9 - AdaBoost Implementation
+  Subtitle: Boosting algorithm (meta-learning)
+  Use Case: Boosting
+  Difficulty: Hard
+  Location: week_4/day_29/d29p09/README.md
+
+Problem 29.10 - Support Vector Machine
+  Subtitle: Binary classification (kernel methods)
+  Use Case: SVM
+  Difficulty: Hard
+  Location: week_4/day_29/d29p10/README.md
+
+
+DAY 30: SYSTEM DESIGN & INTEGRATION
+================================================================================
+
+Problem 30.1 - Design Distributed Cache
+  Subtitle: Consistent hashing + LRU (multi-component)
+  Use Case: Caching
+  Difficulty: Hard
+  Location: week_4/day_30/d30p01/README.md
+
+Problem 30.2 - Build Search Engine
+  Subtitle: Indexing + ranking + query processing (full system)
+  Use Case: Search
+  Difficulty: Hard
+  Location: week_4/day_30/d30p02/README.md
+
+Problem 30.3 - Design Rate Limiter
+  Subtitle: Token bucket + sliding window (system design)
+  Use Case: Rate limit
+  Difficulty: Medium-Hard
+  Location: week_4/day_30/d30p03/README.md
+
+Problem 30.4 - URL Shortener System
+  Subtitle: Hash + database + cache (end-to-end)
+  Use Case: URL short
+  Difficulty: Medium-Hard
+  Location: week_4/day_30/d30p04/README.md
+
+Problem 30.5 - Design Recommendation Engine
+  Subtitle: Collaborative filtering + content-based (ML + systems)
+  Use Case: Recommend
+  Difficulty: Hard
+  Location: week_4/day_30/d30p05/README.md
+
+Problem 30.6 - Build Distributed Queue
+  Subtitle: Kafka-like message queue (distributed system)
+  Use Case: Message queue
+  Difficulty: Hard
+  Location: week_4/day_30/d30p06/README.md
+
+Problem 30.7 - Design Logging System
+  Subtitle: Distributed tracing (observability)
+  Use Case: Logging
+  Difficulty: Hard
+  Location: week_4/day_30/d30p07/README.md
+
+Problem 30.8 - Build Key-Value Store
+  Subtitle: LSM tree + WAL + memtable (database internals)
+  Use Case: KV store
+  Difficulty: Hard
+  Location: week_4/day_30/d30p08/README.md
+
+Problem 30.9 - Design Video Streaming
+  Subtitle: CDN + adaptive bitrate (multimedia system)
+  Use Case: Video
+  Difficulty: Hard
+  Location: week_4/day_30/d30p09/README.md
+
+Problem 30.10 - Implement MapReduce
+  Subtitle: Distributed computation framework (parallel processing)
+  Use Case: MapReduce
+  Difficulty: Hard
+  Location: week_4/day_30/d30p10/README.md
+
+
+================================================================================
+                            SUMMARY STATISTICS
+================================================================================
+
+Total Problems: 90
+Total Days: 9
+Problems per Day: 10
+
+Difficulty Distribution:
+  Medium: 18 problems
+  Medium-Hard: 23 problems
+  Hard: 49 problems
+
+Topic Distribution:
+  String Algorithms: 10
+  Range Queries: 10
+  Advanced Strings: 10
+  Geometry: 10
+  Tree Structures: 10
+  Randomized: 10
+  Parallel/Concurrent: 10
+  Machine Learning: 10
+  System Design: 10
+
+Estimated Study Time:
+  Quick Overview: ~30 hours (20-30 min per problem)
+  Standard Study: ~60-70 hours (2-3 hours per problem)
+  Deep Learning: ~100+ hours (3-4 hours per problem)
+
+================================================================================
+
+Each problem includes:
+  ✓ Problem Statement
+  ✓ Key Concepts
+  ✓ Detailed Approach
+  ✓ Example Walkthrough
+  ✓ Complexity Analysis
+  ✓ Learning Resources
+  ✓ Questions for Self-Assessment
+  ✓ Related Problems
+
+Access all problems by extracting week_4.zip and browsing the directory structure.
+
+================================================================================
